@@ -5,6 +5,12 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampii301.EntityLayer", "CSharpEgitimKampii301.EntityLayer\CSharpEgitimKampii301.EntityLayer.csproj", "{B61B7A9D-104B-43FF-8647-7BDF931CE2D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampii301.DataAccessLayer", "CSharpEgitimKampii301.DataAccessLayer\CSharpEgitimKampii301.DataAccessLayer.csproj", "{A8F206B3-032D-45F3-85E5-C16CCC8922A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampii301.BusinessLayer", "CSharpEgitimKampii301.BusinessLayer\CSharpEgitimKampii301.BusinessLayer.csproj", "{7EDD97BC-2B67-40FF-A41E-4D9CF256FE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampii301.PresentationLayer", "CSharpEgitimKampii301.PresentationLayer\CSharpEgitimKampii301.PresentationLayer.csproj", "{032A63C4-829F-4132-915C-FFA38EFEAE54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{B61B7A9D-104B-43FF-8647-7BDF931CE2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B61B7A9D-104B-43FF-8647-7BDF931CE2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B61B7A9D-104B-43FF-8647-7BDF931CE2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F206B3-032D-45F3-85E5-C16CCC8922A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F206B3-032D-45F3-85E5-C16CCC8922A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F206B3-032D-45F3-85E5-C16CCC8922A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F206B3-032D-45F3-85E5-C16CCC8922A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDD97BC-2B67-40FF-A41E-4D9CF256FE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDD97BC-2B67-40FF-A41E-4D9CF256FE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDD97BC-2B67-40FF-A41E-4D9CF256FE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDD97BC-2B67-40FF-A41E-4D9CF256FE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032A63C4-829F-4132-915C-FFA38EFEAE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032A63C4-829F-4132-915C-FFA38EFEAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032A63C4-829F-4132-915C-FFA38EFEAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032A63C4-829F-4132-915C-FFA38EFEAE54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
