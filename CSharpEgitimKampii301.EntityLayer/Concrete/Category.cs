@@ -12,14 +12,9 @@ namespace CSharpEgitimKampii301.EntityLayer.Concrete
         public int CategoryID { get; set; }
         public string CategoryName { get; set; }
         public int CategoryStatus { get; set; }
+        public List<Product> Products { get; set; }
+
 
     }
 }
 
-/*
- Field - Variable - Property
- */
-
-/*
- 
- */
